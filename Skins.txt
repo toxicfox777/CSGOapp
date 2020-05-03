@@ -1,0 +1,96 @@
+AK-47 | Elite Build
+AK-47 | Neon Revolution
+AK-47 | Neon Rider
+AK-47 | Phantom Disruptor
+AK-47 | The Empress
+AUG | Navy Murano
+AUG | Tom Cat
+AWP | Capillary
+AWP | Safari Mesh
+CZ75-Auto | Eco
+CZ75-Auto | Victoria
+Desert Eagle | Blaze
+Desert Eagle | Blue Ply
+Desert Eagle | Midnight Storm
+Desert Eagle | Mudder
+Dual Berettas | Cobra Strike
+Dual Berettas | Contractor
+Dual Berettas | Royal Consorts
+Dual Berettas | Twin Turbo
+FAMAS | Night Borre
+Five-SeveN | Case Hardened
+Galil AR | Chatterbox
+Galil AR | Eco
+Galil AR | Signal
+Galil AR | Sugar Rush
+Glock-18 | Bullet Queen
+Glock-18 | Fade
+Glock-18 | Off World
+Glock-18 | Oxide Blaze
+Glock-18 | Warhawk
+Glock-18 | Wasteland Rebel
+M4A1-S | Boreal Forest
+M4A1-S | Briefing
+M4A1-S | Chantico's Fire
+M4A1-S | Hyper Beast
+M4A1-S | Master Piece
+M4A1-S | Mecha Industries
+M4A1-S | Moss Quartz
+M4A1-S | Nitro
+M4A1-S | Player Two
+M4A4 | Desert Storm
+M4A4 | Magnesium
+MAC-10 | Disco Tech
+MAC-10 | Pipe Down
+MAC-10 | Stalker
+MAC-10 | Surfwood
+MAC-10 | Whitefish
+MAG-7 | Justice
+MAG-7 | Rust Coat
+MP5-SD | Desert Strike
+MP7 | Gunsmoke
+MP9 | Sand Dashed
+Negev | Lionfish
+Negev | Mjölnir
+Negev | Power Loader
+Nova | Antique
+Nova | Bloomstick
+Nova | Hyper Beast
+Nova | Koi
+Nova | Toy Soldier
+P2000 | Acid Etched
+P250 | Sand Dune
+P90 | Elite Build
+PP-Bizon | Blue Streak
+PP-Bizon | Embargo
+PP-Bizon | Fuel Rod
+PP-Bizon | High Roller
+PP-Bizon | Judgement of Anubis
+R8 Revolver | Bone Forged
+R8 Revolver | Fade
+R8 Revolver | Survivalist
+Sawed-Off | Amber Fade
+Sawed-Off | Apocalypto
+SCAR-20 | Bloodsport
+SCAR-20 | Cardiac
+SCAR-20 | Cyrex
+SCAR-20 | Enforcer
+SCAR-20 | Splash Jam
+SG 553 | Army Sheen
+SG 553 | Darkwing
+SG 553 | Waves Perforated
+SSG 08 | Fever Dream
+SSG 08 | Red Stone
+USP-S | Kill Confirmed
+USP-S | Neo-Noir
+XM1014 | Blue Steel
+AWP | Phobos
+MP5-SD | Agent
+MP5-SD | Gauss
+AK-47 | Redline
+AK-47 | Case Hardened
+AK-47 | Baroque Purple
+G3SG1 | Jungle Dashed
+
+Sealed Graffiti | Sorry (Monster Purple)
+Sealed Graffiti | Popdog (Brick Red)
