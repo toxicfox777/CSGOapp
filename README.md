@@ -1,0 +1,4 @@
+# CSGOapp
+## !!!MAKE SURE THE SKINS.TXT FILE IS IN THE SAME FOLDER AS THE APPLICATION!!!
+
+Please report any bugs :D
