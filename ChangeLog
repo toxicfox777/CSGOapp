@@ -1,0 +1,11 @@
+Change Log
+v0.2
+Added Copy Steam ID to the friends list
+Added ability to see someones inventory from friends list
+Added Tec-9
+Removed ability to maximise window
+Fixed problem with Getting StatTraked item prices and saving to file
+
+v0.1
+Made the PriceChecker outputs more readable and added an output for the price you would get after Steam tax.
+Fixed a bug where clicking on an item in the inventory closing the opened window then trying to reopen it would make it crash.
