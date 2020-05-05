@@ -1,4 +1,14 @@
 Change Log
+v0.3
+Added an Update Checker
+Made Market Image Grow when hovered over
+More detailed Error messages
+Changed Inventory Start location
+Created Settings (Doesn't work yet)
+
+Some features in this update dont work yet as i spent 5hr trying to fix a simple problem.
+Thats also why some things look different/worse. :pepeHands:
+
 v0.2
 Added Copy Steam ID to the friends list
 Added ability to see someones inventory from friends list
