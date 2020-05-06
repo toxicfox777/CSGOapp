@@ -1,4 +1,10 @@
 Change Log
+v0.4
+Fixed The Text on PriceChecker
+Added file for Settings
+Automatically creates text files necessary so you dont have to download it
+Made Themes work
+
 v0.3
 Added an Update Checker
 Made Market Image Grow when hovered over
