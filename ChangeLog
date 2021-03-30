@@ -1,4 +1,9 @@
 Change Log
+v0.6
+Upgraded to WPF
+Added Get Float button to Inverntory
+
+
 v0.5
 Added Compare option to compare prices from two inventories
 Added Skins only option in Inventory
