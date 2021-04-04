@@ -1,8 +1,14 @@
 Change Log
+v0.7
+UI Overhaul
+Now uses Pages instead of opening a new window for each part
+Add error catching
+Moved Text around on the Market Compare Tab
+Skin Images now scale with window size in Steam Market and Market Compare
+
 v0.6
 Upgraded to WPF
 Added Get Float button to Inverntory
-
 
 v0.5
 Added Compare option to compare prices from two inventories
