@@ -1,4 +1,4 @@
-v0.7
+v0.8
 # CSGOapp
 
 Weapons.txt is required for it to work. Make sure the text file is in the same folder as the application.
