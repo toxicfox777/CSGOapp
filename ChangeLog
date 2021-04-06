@@ -1,4 +1,9 @@
 Change Log
+v0.8
+Embedded Weapons List so additional Weapons.txt file is not needed
+Added Saved Friends, you can now save users so you dont have to constantly lookup steamID's. You can add friends by clicking the Add Friends button on each card in the Friends tab or by entering the user's steamID in the Saved Friends Tab.
+Added Setting for Persistant Tabs, Controls whether data on tabs are lost when you change tabs
+
 v0.7
 UI Overhaul
 Now uses Pages instead of opening a new window for each part
